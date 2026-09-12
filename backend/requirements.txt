@@ -1,0 +1,9 @@
+fastapi>=0.141.0
+uvicorn>=0.52.0
+sqlmodel>=0.0.42
+pydantic-ai==2.41.0
+pydantic-ai-harness==0.29.1
+dbos>=2.31.1
+copilotkit>=0.1.96
+httpx>=0.28.0
+python-multipart>=0.0.32

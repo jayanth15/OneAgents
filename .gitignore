@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+ENV/
+
+# Next.js / build output
+.next/
+out/
+dist/
+build/
+.turbo/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Databases & local state
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment & secrets
+.env
+.env*.local
+
+# Logs / OS
+*.log
+.DS_Store
